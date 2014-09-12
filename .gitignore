@@ -1,2 +1,5 @@
 .metadata/
 php-grammar-in-antlr-read-only/
+GraphDependency/.settings/
+GraphDependency/.classpath
+GraphDependency/.project
