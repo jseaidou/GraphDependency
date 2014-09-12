@@ -1,9 +1,0 @@
---TEST--
-Test Goto Label
---FILE--
-<?php LABEL: ?>
---EXPECT--
-<ModuleDeclaration start="0" end="16">
-	<GotoLabel start="6" end="12" label="LABEL">
-	</GotoLabel>
-</ModuleDeclaration>

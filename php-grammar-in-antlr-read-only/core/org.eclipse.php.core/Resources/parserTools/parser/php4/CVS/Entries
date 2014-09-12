@@ -1,6 +1,0 @@
-/ast_scanner.flex/1.15/Tue Jan 13 14:34:44 2009//TR2_1_Galileo
-/generateAstParser.xml/1.6/Sat Jun 13 09:22:38 2009//TR2_1_Galileo
-/generateAstScanner.xml/1.3/Thu May 28 19:56:54 2009//TR2_1_Galileo
-/generateCompilerAstParser.xml/1.7/Sat Jun 13 09:22:38 2009//TR2_1_Galileo
-/php_ast_parser.cup/1.12/Wed May  6 14:31:21 2009//TR2_1_Galileo
-/php_compiler_ast_parser.cup/1.20.2.1/Thu Jul  2 07:09:02 2009//TR2_1_Galileo

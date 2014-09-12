@@ -1,9 +1,0 @@
---TEST--
-Test Abs Class
---FILE--
-<?php abstract class gadi { } ?>
---EXPECT--
-<ModuleDeclaration start="0" end="33">
-	<ClassDeclaration start="6" end="29" modifiers="abstract" name="gadi">
-	</ClassDeclaration>
-</ModuleDeclaration>

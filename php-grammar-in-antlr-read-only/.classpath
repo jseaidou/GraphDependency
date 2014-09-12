@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry excluding="org/eclipse/php/internal/core/ast/scanner/php5/" kind="src" path="core/org.eclipse.php.core/src"/>
-	<classpathentry kind="src" path="core/org.eclipse.php.core/src/org/eclipse/php/internal/core/ast/scanner/php5"/>
-	<classpathentry kind="src" path="test/org.eclipse.php.core.tests/src"/>
-	<classpathentry kind="lib" path="core/org.eclipse.php.core/phpgrammar.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="test/org.eclipse.php.core.tests/bin"/>
-</classpath>
