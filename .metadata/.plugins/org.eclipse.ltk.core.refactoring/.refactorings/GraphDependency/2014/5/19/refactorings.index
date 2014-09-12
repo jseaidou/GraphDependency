@@ -1,0 +1,74 @@
+1399322765055	Delete element
+1399341391222	Delete element
+1399341865677	Delete element
+1399345520425	Delete element
+1399364727289	Delete element
+1399365378349	Delete element
+1399365385406	Delete element
+1399365471609	Delete element
+1399365475817	Delete element
+1399365551405	Move compilation unit
+1399365565232	Move compilation unit
+1399365571471	Move compilation unit
+1399365666897	Delete element
+1399365699300	Delete element
+1399404140662	Rename type 'ConstStaticAccess'
+1399404187716	Rename type 'StaticConstantAccess'
+1399408786557	Rename type 'ConstantDeclarationStatement'
+1399411947370	Rename type 'AssignmentStatement'
+1399422664029	Rename type 'AbstractASTParser'
+1399423304425	Delete element
+1399487320592	Rename package 'box.ast'
+1399487539215	Rename resource 'CompilerAst.g'
+1399487564855	Rename resource 'ParserAst.g'
+1399487584961	Rename resource 'CompilerAst.tokens'
+1399488667455	Move compilation unit
+1399489273425	Rename resource 'PHPParserAst.g'
+1399490437796	Rename resource 'PHPParserAST.g'
+1399490850772	Delete elements
+1399491149363	Delete elements
+1399491186834	Delete elements
+1399491190047	Delete element
+1399491193315	Delete element
+1399492787318	Delete element
+1399492802591	Delete element
+1399494782355	Delete element
+1399496890424	Delete element
+1399497313081	Rename type 'IASTParser'
+1399498688729	Rename type 'ASTNodeKind'
+1399522132382	Delete element
+1399526311436	Delete element
+1399527241641	Delete element
+1399527267935	Delete element
+1399527278954	Delete element
+1399527293785	Delete element
+1399527298399	Delete element
+1399527321206	Delete element
+1399527339456	Delete element
+1399527344148	Delete element
+1399527347761	Delete element
+1399527358251	Delete element
+1399527363075	Delete element
+1399527383851	Delete elements
+1399527389410	Delete elements
+1399533920595	Delete element
+1399534336640	Delete element
+1399538931838	Delete element
+1399539153688	Delete element
+1399576609487	Delete element
+1399579330622	Delete element
+1399579816851	Delete element
+1399580505427	Delete element
+1399580535308	Delete element
+1399581236488	Delete element
+1399581481788	Delete element
+1399582471324	Delete element
+1399584682417	Delete element
+1399584690761	Move compilation unit
+1399587590226	Rename type 'UseSatement'
+1399588174527	Rename type 'FunctionFormalParamaterByReference'
+1399588267933	Move compilation unit
+1399592210264	Delete element
+1399596666719	Rename field 'catchStatement'
+1399596679097	Rename method 'getCatchStatement'
+1399677012113	Rename local variable 'tabs'

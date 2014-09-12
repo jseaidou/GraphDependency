@@ -1,0 +1,35 @@
+/CoreMessages.java/1.7/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/CoreMessages.properties/1.7/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/Logger.java/1.4/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/PHPCoreConstants.java/1.20.2.1/Tue Jun 30 14:43:50 2009//TR2_1_Galileo
+/PHPCorePlugin.java/1.28/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/PHPLanguageToolkit.java/1.5/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/PHPToolkitUtil.java/1.4/Thu May 28 19:56:50 2009//TR2_1_Galileo
+/PHPVersion.java/1.4/Thu May 28 19:56:50 2009//TR2_1_Galileo
+D/ast////
+D/buildpath////
+D/callhierarchy////
+D/codeassist////
+D/compiler////
+D/containers////
+D/documentModel////
+D/filenetwork////
+D/filesystem////
+D/format////
+D/includepath////
+D/index////
+D/keywords////
+D/language////
+D/mixin////
+D/model////
+D/phpIni////
+D/phpModel////
+D/preferences////
+D/project////
+D/resources////
+D/search////
+D/sourceModel////
+D/ti////
+D/typeinference////
+D/util////
+D/validation////

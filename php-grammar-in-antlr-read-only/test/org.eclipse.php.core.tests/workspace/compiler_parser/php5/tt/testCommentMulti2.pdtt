@@ -1,0 +1,8 @@
+--TEST--
+Test Comment Multi2
+--FILE--
+<?php /* this is multiline comment 
+and another line */?>
+--EXPECT--
+<ModuleDeclaration start="0" end="58">
+</ModuleDeclaration>

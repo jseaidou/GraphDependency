@@ -1,0 +1,79 @@
+/PDO.php/1.4/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/PDO_OCI.php/1.1/Mon Mar 24 15:43:50 2008//TR2_1_Galileo
+/Reflection.php/1.3/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/SPL.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/SQLite.php/1.4/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/SimpleXML.php/1.4/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/Zend Data Cache.php/1.2/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/Zend Debugger.php/1.1/Mon Mar 24 15:43:50 2008//TR2_1_Galileo
+/Zend Download Server.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/Zend Monitor.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/Zend Optimizer+.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/Zend Page Cache.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/Zend Utils.php/1.1/Thu Sep  4 11:56:06 2008//TR2_1_Galileo
+/basic.php/1.10/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/bcmath.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/bz2.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/calendar.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/ctype.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/curl.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/date.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/dom.php/1.7/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/ereg.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/exif.php/1.8/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/fileinfo.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/filter.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/ftp.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/gd.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/gettext.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/gmp.php/1.5/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/hash.php/1.5/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/ibm_db2.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/iconv.php/1.4/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/imap.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/intl.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/json.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/ldap.php/1.3/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/libxml.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/mbstring.php/1.3/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mcrypt.php/1.3/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/memcache.php/1.3/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mhash.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mime_magic.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/ming.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mssql.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mysql.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/mysqli.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/oci8.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/odbc.php/1.3/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/openssl.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/pcntl.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/pcre.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/pdo_ibm.php/1.1/Thu Sep  4 11:56:07 2008//TR2_1_Galileo
+/pdo_mysql.php/1.1/Mon Mar 24 15:43:51 2008//TR2_1_Galileo
+/pdo_pgsql.php/1.1/Mon Mar 24 15:43:51 2008//TR2_1_Galileo
+/pdo_sqlite.php/1.1/Mon Mar 24 15:43:51 2008//TR2_1_Galileo
+/pgsql.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/posix.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/readline.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/session.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/shmop.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/soap.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/sockets.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/sqlite3.php/1.1/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/standard.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/sybase_ct.php/1.1/Sun Apr  6 11:31:32 2008//TR2_1_Galileo
+/sysvmsg.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/sysvsem.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/sysvshm.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/tidy.php/1.5/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/tokenizer.php/1.4/Mon Mar  9 13:40:14 2009//TR2_1_Galileo
+/wddx.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/xml.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/xmlreader.php/1.1/Mon Mar 24 15:43:51 2008//TR2_1_Galileo
+/xmlrpc.php/1.2/Wed Nov  5 09:59:26 2008//TR2_1_Galileo
+/xmlwriter.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/xsl.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/zend.php/1.1/Mon Mar 24 15:43:51 2008//TR2_1_Galileo
+/zip.php/1.6/Mon Mar  9 13:51:30 2009//TR2_1_Galileo
+/zlib.php/1.5/Mon Mar  9 13:51:30 2009//TR2_1_Galileo

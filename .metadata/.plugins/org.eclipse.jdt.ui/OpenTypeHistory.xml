@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=GraphDependency/lib\/phpgrammar.jar&lt;bin.org.eclipse.php.internal.core.compiler.ast.nodes(ReflectionVariableReference.class[ReflectionVariableReference" modifiers="33" timestamp="1399322636000"/>
+<typeInfo handle="=GraphDependency/src&lt;box.graphdependency{BoxDependencyMain.java[BoxDependencyMain" modifiers="1" timestamp="1403846136000"/>
+<typeInfo handle="=GraphDependency/lib\/antlr-3.5.2-complete.jar&lt;org.antlr.runtime.tree(CommonErrorNode.class[CommonErrorNode" modifiers="33" timestamp="1399489785000"/>
+<typeInfo handle="=GraphDependency/lib\/jung2-2_0_1\/jung-visualization-2.0.1.jar&lt;edu.uci.ics.jung.visualization.decorators(ToStringLabeller.class[ToStringLabeller" modifiers="33" timestamp="1399680007000"/>
+<typeInfo handle="=GraphDependency/src&lt;box.php{PHPASTParser.java[PHPASTParser" modifiers="1" timestamp="1403866307000"/>
+<typeInfo handle="=GraphDependency/src&lt;box.php{PHPASTLexer.java[PHPASTLexer" modifiers="1" timestamp="1403866307000"/>
+<typeInfo handle="=GraphDependency/src&lt;box.ast.visitor{ASTPrintVisitor.java[ASTPrintVisitor" modifiers="1" timestamp="1403846590000"/>
+</typeInfoHistroy>

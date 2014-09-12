@@ -1,0 +1,9 @@
+--TEST--
+Test Continue Empty
+--FILE--
+<?php continue;?>
+--EXPECT--
+<ModuleDeclaration start="0" end="18">
+	<ContinueStatement start="6" end="15">
+	</ContinueStatement>
+</ModuleDeclaration>

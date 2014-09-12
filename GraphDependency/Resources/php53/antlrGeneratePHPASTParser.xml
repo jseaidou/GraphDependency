@@ -1,0 +1,31 @@
+<project name="Generate AST Parser for PHP 5.3" default="generateParser" basedir=".">
+    <target name="checkUpToDate">
+        <uptodate
+            property="upToDate"
+            srcfile="PHPAST.g"
+            targetfile="../../../GraphDependency/src/box/php/PHPAstParser.java" />
+    </target>
+
+    <target name="generateParser" depends="checkUpToDate" unless="upToDate">
+        <java
+            jar="../../../GraphDependency/lib/antlr-3.5.2-complete.jar"
+            fork="true">
+        	<arg value="-o"/>
+        	<arg value="../../../GraphDependency/src/box/php"/>
+        	<arg value="PHPAST.g"/>
+        </java>
+    	
+    	<replace
+    	            file="../../../GraphDependency/src/box/php/PHPASTParser.java"
+    	            token="extends Parser "
+    	            value="extends AbstractASTParser"/>
+    	<move
+    	       file="../../../GraphDependency/src/box/php/PHPAST.tokens"
+    	       todir="../php53/"/>
+    </target>
+    
+    <target name="clean" >
+        <delete file="../../../GraphDependency/src/box/php/PHPASTParser.java" />
+    	<delete file="PHPAST.tokens"/>
+    </target>
+</project>

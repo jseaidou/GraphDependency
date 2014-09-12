@@ -1,0 +1,13 @@
+--TEST--
+Test Global Statement Multiple
+--FILE--
+<?php global $a, $b; ?>
+--EXPECT--
+<ModuleDeclaration start="0" end="24">
+	<GlobalStatement start="6" end="20">
+		<VariableReference start="13" end="15" name="$a">
+		</VariableReference>
+		<VariableReference start="17" end="19" name="$b">
+		</VariableReference>
+	</GlobalStatement>
+</ModuleDeclaration>

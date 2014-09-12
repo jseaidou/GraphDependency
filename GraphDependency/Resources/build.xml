@@ -1,0 +1,24 @@
+<project name="Builds all parser classes" default="antlr">
+    <!-- This target is used to compiler the parser using javacup jar -->
+    <target name="javacup">
+        <dirname property="antfile.dir" file="${ant.file}"/>
+        <ant dir="${antfile.dir}/php53/" antfile="generateAstParser.xml" />
+        <ant dir="${antfile.dir}/php53/" antfile="generateAstScanner.xml" />
+        <ant dir="${antfile.dir}/php53/" antfile="generateCompilerAstParser.xml" />
+    </target>
+    
+    <target name="antlr">
+        <dirname property="antfile.dir" file="${ant.file}"/>
+        <ant dir="${antfile.dir}/php53/" antfile="antlrGeneratePHPASTParser.xml" />
+        <ant dir="${antfile.dir}/php53/" antfile="antlrGeneratePHPTree.xml" />
+    </target>
+
+    <target name="clean">
+        <dirname property="antfile.dir" file="${ant.file}"/>
+        <ant dir="${antfile.dir}/php53/" antfile="generateAstParser.xml" target="clean"/>
+        <ant dir="${antfile.dir}/php53/" antfile="generateAstScanner.xml" target="clean"/>
+        <ant dir="${antfile.dir}/php53/" antfile="generateCompilerAstParser.xml" target="clean"/>
+        <ant dir="${antfile.dir}/php53/" antfile="antlrGeneratePHPASTParser.xml" target="clean"/>
+        <ant dir="${antfile.dir}/php53/" antfile="antlrGeneratePHPTree.xml" target="clean" />
+    </target>
+</project>

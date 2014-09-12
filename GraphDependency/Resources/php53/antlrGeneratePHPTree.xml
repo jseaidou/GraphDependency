@@ -1,0 +1,30 @@
+<project name="Generate AST Parser for PHP 5.3" default="generateParser" basedir=".">
+    <target name="checkUpToDate">
+        <uptodate
+            property="upToDate"
+            srcfile="TreePHP.g"
+            targetfile="../../../GraphDependency/src/box/php/TreePHP.java" />
+    </target>
+
+    <target name="generateParser" depends="checkUpToDate" unless="upToDate">
+        <java
+            classpath="../../../GraphDependency/lib/antlr-3.5.2-complete.jar"
+        	classname="org.antlr.Tool"
+            fork="true">
+        	
+        	<arg value="-o"/>
+            <arg value="../../../GraphDependency/src/box/php"/>
+        	<arg value="-lib"/>
+        	<arg value="../php53"/>
+        	<arg value="TreePHP.g"/>
+        </java>
+    	<move
+    	               file="../../../GraphDependency/src/box/php/TreePHP.tokens"
+    	               todir="../php53/"/>
+    </target>
+    
+    <target name="clean" >
+        <delete file="../../../GraphDependency/src/box/php/TreePHP.java" />
+    	<delete file="TreePHP.tokens"/>
+    </target>
+</project>
